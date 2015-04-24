@@ -1,0 +1,2 @@
+# Packages to install.
+default[:targetcli][:packages]=%w(git-core build-essential debhelper python-pyparsing python-epydoc python-urwid python-ipaddr python-netifaces python-configobj python-prettytable)
